@@ -1,0 +1,7 @@
+http://git-scm.com/
+https://code.visualstudio.com/
+https://www.virtualbox.org/wiki/Downloads
+https://releases.ubuntu.com/20.04/
+http://centos.excellmedia.net/7.9.2009/isos/x86_64/
+
+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
